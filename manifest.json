@@ -13,8 +13,8 @@
     {
       "id": "fnap2",
       "version": "2.0.0",
-      "download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/games/fnap2.zip",
-      "exe_path": "FNAP2/FNAP2.exe",
+      "download_url": "https://github.com/szpontgames-gif/szpontserver/releases/download/V1.0.0/fnap2.zip",
+      "exe_path": "FNAP2/FiveNightsAtPiekarz2.exe",
       "zip_extract_dir": "FNAP2"
     },
     {
