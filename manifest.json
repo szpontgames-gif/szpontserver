@@ -1,26 +1,26 @@
 {
   "launcher_version": "1.0.0",
-  "launcher_download_url": "https://raw.githubusercontent.com/TWOJ_NICK/szpont-server/main/launcher.py",
+  "launcher_download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/launcher.py",
 
   "games": [
     {
       "id": "fnap1",
       "version": "1.0.0",
-      "download_url": "https://raw.githubusercontent.com/TWOJ_NICK/szpont-server/main/games/fnap1.zip",
+      "download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/games/fnap1.zip",
       "exe_path": "FNAP1/FNAP1.exe",
       "zip_extract_dir": "FNAP1"
     },
     {
       "id": "fnap2",
       "version": "2.0.0",
-      "download_url": "https://raw.githubusercontent.com/TWOJ_NICK/szpont-server/main/games/fnap2.zip",
+      "download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/games/fnap2.zip",
       "exe_path": "FNAP2/FNAP2.exe",
       "zip_extract_dir": "FNAP2"
     },
     {
       "id": "pls",
       "version": "1.2.0",
-      "download_url": "https://raw.githubusercontent.com/TWOJ_NICK/szpont-server/main/games/pls.zip",
+      "download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/games/pls.zip",
       "exe_path": "PiekarzLife/PiekarzLife.exe",
       "zip_extract_dir": "PiekarzLife"
     }
