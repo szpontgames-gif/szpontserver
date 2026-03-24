@@ -1,28 +1,58 @@
 {
-  "launcher_version": "1.0.0",
-  "launcher_download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/launcher.py",
+  "launcher_version": "5.0.0",
+  "launcher_download_url": "https://github.com/szpontgames-gif/szpontserver/releases/download/5.0.0/SzpontLauncher.exe",
 
   "games": [
     {
       "id": "fnap1",
+      "title": "FNAP 1",
+      "subtitle": "Five Nights at Piekarz",
+      "genre": "Horror / Survival",
       "version": "1.0.0",
+      "desc": "Pierwsza odslona FNAP. Przetrwaj 5 nocy w nawiedzonym lokalu pizzerii. Animatroniczne stworzenia czaja sie w ciemnosci.",
+      "color": "#ec4899",
+      "exe_name": "FNAP1.exe",
+      "folder": "FNAP1",
       "download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/games/fnap1.zip",
-      "exe_path": "FNAP1/FNAP1.exe",
-      "zip_extract_dir": "FNAP1"
+      "maintenance": true,
+      "tags": ["Horror", "Survival", "Indie"],
+      "rating": 4.7,
+      "players": "1",
+      "size": "~120 MB"
     },
     {
       "id": "fnap2",
+      "title": "FNAP 2",
+      "subtitle": "Five Nights at Piekarz 2",
+      "genre": "Horror / Survival",
       "version": "2.0.0",
+      "desc": "Powrot do pizzerii -- nowe animatroniki, glebszy lore, wiecej strachu. Czy przetrwasz wszystkie noce?",
+      "color": "#8b5cf6",
+      "exe_name": "FiveNightsAtPiekarz2.exe",
+      "folder": "FNAP2",
       "download_url": "https://github.com/szpontgames-gif/szpontserver/releases/download/V1.0.0/fnap2.zip",
-      "exe_path": "FNAP2/FiveNightsAtPiekarz2.exe",
-      "zip_extract_dir": "FNAP2"
+      "maintenance": false,
+      "tags": ["Horror", "Survival", "Sequel"],
+      "rating": 4.9,
+      "players": "1",
+      "size": "~180 MB"
     },
     {
       "id": "pls",
+      "title": "Piekarz Life",
+      "subtitle": "Simulator",
+      "genre": "Simulation / Life",
       "version": "1.2.0",
+      "desc": "Zostan mistrzem piekarstwa! Zarzadzaj piekarnia, tworz wypieki, buduj imperium ciasta.",
+      "color": "#fbbf24",
+      "exe_name": "PiekarzLife.exe",
+      "folder": "PiekarzLife",
       "download_url": "https://raw.githubusercontent.com/szpontgames-gif/szpontserver/main/games/pls.zip",
-      "exe_path": "PiekarzLife/PiekarzLife.exe",
-      "zip_extract_dir": "PiekarzLife"
+      "maintenance": true,
+      "tags": ["Simulation", "Casual", "Management"],
+      "rating": 4.5,
+      "players": "1",
+      "size": "~95 MB"
     }
   ]
 }
